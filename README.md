@@ -1,7 +1,7 @@
 ﻿# Razorpay Integration
-# 💳 Razorpay Integration - Node.js Backend
+# 💳 Razorpay Integration - MERN Project
 
-This project provides a backend integration for **Razorpay** using **Node.js & Express.js** to handle payments seamlessly.
+This project provides a backend integration for **Razorpay** using **Node.js & Express.js** React  to handle payments seamlessly.
 
 ---
 
