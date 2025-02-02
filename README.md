@@ -17,5 +17,5 @@ This project provides a backend integration for **Razorpay** using **Node.js & E
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-[git clone https://github.com/your-username/your-repo.git](https://github.com/janardhankhandagle/Rozorpay-integration-in-mern-.git
+git clone https://github.com/your-username/your-repo.git](https://github.com/janardhankhandagle/Rozorpay-integration-in-mern-.git
 cd your-repo
